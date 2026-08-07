@@ -1,14 +1,12 @@
 ---
-layout: collection
+layout: archive
 title: "Performance"
 permalink: /performance/
-collection: performance
+author_profile: true
 ---
 
-# Strategy Performance Log
-
-전략 성과를 기록합니다.
+# Strategy Performance
 
 | Strategy | CAGR | MDD |
 |----------|------|-----|
-| 준비중 | - | - |
+| - | - | - |

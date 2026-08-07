@@ -1,8 +1,8 @@
 ---
-layout: collection
+layout: archive
 title: "Research"
 permalink: /research/
-collection: research
+author_profile: true
 ---
 
 # Strategy Research

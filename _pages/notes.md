@@ -1,14 +1,8 @@
 ---
-layout: collection
+layout: archive
 title: "Notes"
 permalink: /notes/
-collection: notes
+author_profile: true
 ---
 
 # Papers, Markets & Book Reviews
-
-논문과 기사 정리
-
-- Paper Review
-- Market Review
-- Book Notes
