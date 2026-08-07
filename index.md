@@ -1,9 +1,9 @@
 ---
-layout: splash
+layout: home
 title: "Quant Trading Lab"
 permalink: /
 header:
-  overlay_image: /images/home1.jpg
+  overlay_image: /images/home.jpg
   overlay_filter: 0
 ---
 
