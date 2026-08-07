@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: 
+title: ""
 permalink: /
 
 header:
-  overlay_image: home1.png
+  overlay_image: home.png
   overlay_filter: 0.45
 ---
 
