@@ -2,7 +2,7 @@
 
 .page__hero--overlay {
   aspect-ratio: 2 / 1;
-  height: auto;
+  height: 60vh;
 }
 .page__hero--overlay .page__title {
   display: none;
@@ -30,13 +30,13 @@ a:visited {
 
 /* 마우스를 올렸을 때 */
 a:hover {
-  color: #2a3b91;
+  color: #000000;
   text-decoration: underline !important;
 }
 
 
 /* 클릭 순간 */
 a:active {
-  color: #2a3b91;
+  color: #000000;
   text-decoration: underline !important;
 }
