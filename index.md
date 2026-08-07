@@ -4,7 +4,7 @@ title: "Quant Trading Lab"
 permalink: /
 
 header:
-  overlay_image: home.jpg
+  overlay_image: home.png
   overlay_filter: 0.45
 ---
 
