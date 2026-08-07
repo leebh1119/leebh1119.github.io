@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Flexibility · Resilience · Termination"
+title: "Flexibility, Resilience, and Termination"
 permalink: /
 
 header:
