@@ -4,10 +4,8 @@ title: "Quant Trading Lab"
 permalink: /
 
 header:
-  overlay_image: /images/home.jpg
+  overlay_image: /assets/images/home.jpg
   overlay_filter: 0.45
-  cta_label: "Research"
-  cta_url: "/research/"
 ---
 
 ### Data · Research · Markets
