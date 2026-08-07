@@ -52,7 +52,9 @@
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
   {% endif %}
-  {% if page.layout == "splash" %}
-    {% include scroll-down.html %}
-  {% endif %}
+
+<a href="#content-start" class="scroll-down">
+  <span></span>
+</a>
+
 </div>
