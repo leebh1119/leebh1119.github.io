@@ -6,14 +6,7 @@ permalink: /
 header:
   overlay_image: home.png
   overlay_filter: 0.45
-
-classes:
-  - hero-fullscreen
 ---
-
-<a href="#content-start" class="scroll-down">
-  <span></span>
-</a>
 
 <a id="content-start"></a>
 

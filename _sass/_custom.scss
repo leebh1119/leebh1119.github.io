@@ -1,108 +1,95 @@
-/* Full screen hero */
+/* =========================================
+   Full-screen splash hero
+   ========================================= */
 
-.hero-fullscreen .page__hero--overlay {
+.page__hero--overlay {
+  position: relative;
 
+  width: 100%;
+  height: 100vh;
   min-height: 100vh;
 
-  height: 100vh;
+  padding: 0 !important;
 
-  aspect-ratio: auto;
+  aspect-ratio: auto !important;
+
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat;
 
   display: flex;
-
   align-items: center;
-
   justify-content: center;
-
 }
 
 
-
-/* hide title */
+/* Hide title on splash hero */
 
 .page__hero--overlay .page__title {
-
-  display:none;
-
+  display: none;
 }
 
 
+/* =========================================
+   Scroll-down arrow
+   ========================================= */
 
-/* Scroll down arrow */
+.page__hero--overlay .scroll-down {
+  position: absolute;
 
-.scroll-down {
+  left: 50%;
+  bottom: 40px;
 
-  position:absolute;
+  transform: translateX(-50%);
 
-  bottom:40px;
+  z-index: 20;
 
-  left:50%;
+  display: block;
 
-  transform:translateX(-50%);
-
-  z-index:10;
-
+  width: 30px;
+  height: 40px;
 }
 
 
+/* Arrow shape */
 
-.scroll-down span {
+.page__hero--overlay .scroll-down span {
+  display: block;
 
-  display:block;
+  width: 20px;
+  height: 20px;
 
-  width:25px;
+  border-right: 3px solid #fff;
+  border-bottom: 3px solid #fff;
 
-  height:25px;
+  transform: rotate(45deg);
 
-  border-bottom:3px solid white;
-
-  border-right:3px solid white;
-
-  transform:rotate(45deg);
-
-  animation:scrollArrow 2s infinite;
-
+  animation: scroll-down-animation 2s infinite;
 }
 
 
+/* Arrow animation */
 
-/* animation */
+@keyframes scroll-down-animation {
 
-@keyframes scrollArrow {
+  0% {
+    opacity: 0;
+    transform: rotate(45deg) translate(-8px, -8px);
+  }
 
+  50% {
+    opacity: 1;
+  }
 
-0% {
-
- transform:rotate(45deg) translate(-10px,-10px);
-
- opacity:0;
-
+  100% {
+    opacity: 0;
+    transform: rotate(45deg) translate(8px, 8px);
+  }
 }
 
 
-50% {
-
- opacity:1;
-
-}
-
-
-100% {
-
- transform:rotate(45deg) translate(10px,10px);
-
- opacity:0;
-
-}
-
-
-}
-
-
-/* smooth scrolling */
+/* Smooth scrolling */
 
 html {
-
- scroll-behavior:smooth;
-
+  scroll-behavior: smooth;
 }
