@@ -5,8 +5,7 @@ date: 2026-08-07
 
 # 첫 번째 Journal
 
-테스트 하나둘
+오늘 Quant Trading Lab의 Journal 시스템을 테스트한다.
 
-## Test
-
-Journal collection이 정상적으로 작동하는지 확인하기 위한 테스트 글이다.
+앞으로 이곳에는 시장을 바라보면서 떠오른 생각과
+트레이딩 전략에 대한 생각을 기록할 예정이다.

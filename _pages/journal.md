@@ -1,9 +1,12 @@
 ---
-layout: collection
+layout: archive
 title: "Journal"
 permalink: /journal/
-collection: journal
 author_profile: true
 ---
 
-# Thought Archive
+{% assign posts = site.journal | sort: "date" | reverse %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
