@@ -7,3 +7,36 @@
 .page__hero--overlay .page__title {
   display: none;
 }
+
+/* ==============================
+   Academic Pages Link Custom Style
+   ============================== */
+
+
+/* 일반 링크 */
+a,
+a:link {
+  color: #000000;
+  text-decoration: none;
+}
+
+
+/* 방문한 링크 */
+a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+
+
+/* 마우스를 올렸을 때 */
+a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+
+/* 클릭 순간 */
+a:active {
+  color: #000000;
+  text-decoration: none;
+}
