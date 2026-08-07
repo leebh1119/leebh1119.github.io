@@ -1,10 +1,10 @@
 ---
-layout: collection
+layout: archive
 title: "Journal"
 permalink: /journal/
-collection: journal
+author_profile: true
 ---
 
-# Thought Archive
+# Journal
 
 시장을 보며 떠오른 생각들을 자유롭게 기록합니다.
