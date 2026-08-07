@@ -5,8 +5,8 @@ permalink: /performance/
 author_profile: true
 ---
 
-# Strategy Performance
+{% assign posts = site.performance | sort: "date" | reverse %}
 
-| Strategy | CAGR | MDD |
-|----------|------|-----|
-| - | - | - |
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}

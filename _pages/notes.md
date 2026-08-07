@@ -5,4 +5,8 @@ permalink: /notes/
 author_profile: true
 ---
 
-# Papers, Book & Market Reviews
+{% assign posts = site.notes | sort: "date" | reverse %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
