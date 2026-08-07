@@ -4,17 +4,5 @@ permalink: /about/
 author_profile: true
 ---
 
-# About
-
-안녕하세요.
-
-퀀트 트레이딩과 금융시장을 연구하고 있습니다.
-
-이 블로그에서는
-
-- Quant Trading
-- Python
-- Machine Learning
-- Financial Market
-
-등을 기록합니다.
+▪ Disciplined and self-directed Independent Quantitative Trader with 6+ years of continuous live P&L experience leveraging creative strategy generation and self-taught algorithmic system development, testing, and live execution. Proven track record of managing a portfolio of 25 trading systems across Korean and U.S. index futures markets, generating consistent risk-adjusted returns.
+▪ Former Quality Assurance Group Supervisor at KEPCO Engineering & Construction Company (KEPCO E&C) in South Korea, bringing a strong foundation in systems engineering, process validation, statistical analysis, risk management, and project management.
