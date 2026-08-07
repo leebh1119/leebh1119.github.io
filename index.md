@@ -2,27 +2,68 @@
 layout: splash
 title: "Quant Trading Lab"
 permalink: /
+
 header:
   overlay_image: /images/homebanner.jpg
-  overlay_filter: 0
+  overlay_filter: 0.45
 ---
 
 # Quant Trading Lab
 
-시장에는 규칙이 존재한다고 믿습니다.
+### Data · Research · Markets
 
-이 블로그에서는
+퀀트 트레이딩과 금융시장을 연구하고 기록합니다.
 
-- Quant Trading
-- Portfolio Management
-- Asset Allocation
-- Backtesting
-- Risk Management
+[Research](/research/)  
+[Performance](/performance/)
 
-을 연구합니다.
+---
+
+## What I Do
+
+### Research
+
+퀀트 트레이딩 전략을 연구합니다.
+
+Momentum, Mean Reversion, Factor Investing, ETF Rotation 등을 중심으로 전략을 설계하고 백테스트합니다.
+
+[Research →](/research/)
+
+---
+
+### Performance
+
+실제 전략의 백테스트 및 성과를 기록합니다.
+
+CAGR, MDD, Sharpe Ratio, Win Rate 등의 지표를 통해 전략을 분석합니다.
+
+[Performance →](/performance/)
+
+---
+
+### Notes
+
+논문, 기사, 책 등 시장과 투자에 관한 자료를 읽고 정리합니다.
+
+[Notes →](/notes/)
+
+---
+
+### Journal
+
+시장에 대한 생각과 투자 아이디어를 기록합니다.
+
+[Journal →](/journal/)
 
 ---
 
 ## Latest Posts
 
-최신 글은 아래에서 확인할 수 있습니다.
+최근 작성한 글
+
+{% for post in site.posts limit:5 %}
+### [{{ post.title }}]({{ post.url }})
+
+{{ post.excerpt | strip_html | truncate: 160 }}
+
+{% endfor %}
