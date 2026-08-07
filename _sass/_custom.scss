@@ -1,5 +1,12 @@
 /* Custom hero size */
 
 .page__hero--overlay {
-  min-height: 800px;
+  height: 75vh;
+  min-height: 700px;
+  max-height: 900px;
+}
+
+.page__hero--overlay .wrapper {
+  padding-top: 0;
+  padding-bottom: 0;
 }
