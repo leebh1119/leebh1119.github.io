@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+
+    {% include masthead.html %}
+
+    <main id="main" role="main">
+
+      <!-- HERO -->
+      <section class="quant-hero"
+        {% if page.header.overlay_image %}
+        style="background-image:
+          linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+          url('{{ site.url }}{{ site.baseurl }}/images/{{ page.header.overlay_image }}');"
+        {% endif %}
+      >
+
+        <div class="quant-hero__content">
+
+          <h1>{{ page.hero_title }}</h1>
+
+          {% if page.hero_subtitle %}
+            <p>{{ page.hero_subtitle }}</p>
+          {% endif %}
+
+          {% if page.hero_button_url %}
+            <a href="{{ page.hero_button_url }}" class="quant-button">
+              {{ page.hero_button_text }}
+            </a>
+          {% endif %}
+
+        </div>
+
+      </section>
+
+
+      <!-- INTRO -->
+      <section class="quant-section quant-intro">
+
+        <p class="quant-label">AT OUR CORE.</p>
+
+        <h2>{{ page.intro_title }}</h2>
+
+        <p>
+          {{ page.intro_text }}
+        </p>
+
+      </section>
+
+
+      <!-- CONTENT -->
+      <section class="quant-section">
+
+        {{ content }}
+
+      </section>
+
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+</html>
