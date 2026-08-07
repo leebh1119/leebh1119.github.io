@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: collection
 title: "Journal"
 permalink: /journal/
 collection: journal
