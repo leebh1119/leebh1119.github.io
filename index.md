@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.45
 ---
 
-### Data · Research · Markets
+### Flexibility, Resilience, and Termination
 
 퀀트 트레이딩과 금융시장을 연구하고 기록합니다.
 
