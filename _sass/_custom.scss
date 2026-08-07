@@ -2,7 +2,12 @@
 
 .page__hero--overlay {
   aspect-ratio: 2 / 1;
-  height: 60vh;
+  height: 75vh;
+}
+.page__hero--overlay .page__hero-caption {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 .page__hero--overlay .page__title {
   display: none;
