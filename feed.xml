@@ -1,0 +1,42 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+<title>{{ site.title }}</title>
+
+<link href="{{ site.url }}/feed.xml" rel="self"/>
+<link href="{{ site.url }}"/>
+
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+
+{% assign entries = site.research
+  | concat: site.performance
+  | concat: site.notes
+  | concat: site.journal
+  | sort: "date"
+  | reverse %}
+
+{% for post in entries limit:20 %}
+
+<entry>
+
+<title>{{ post.title }}</title>
+
+<link href="{{ site.url }}{{ post.url }}"/>
+
+<id>{{ site.url }}{{ post.url }}</id>
+
+<updated>{{ post.date | date_to_xmlschema }}</updated>
+
+<content type="html">
+{{ post.content | xml_escape }}
+</content>
+
+</entry>
+
+{% endfor %}
+
+</feed>
