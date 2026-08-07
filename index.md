@@ -3,9 +3,8 @@ layout: splash
 title: "Quant Trading Lab"
 permalink: /
 header:
-  overlay_image: /images/home.jpg
-  overlay_filter: 0.45
-  caption: "Data Driven Investing"
+  overlay_image: /images/home1.jpg
+  overlay_filter: 0
 ---
 
 # Quant Trading Lab
