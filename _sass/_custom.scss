@@ -1,9 +1,108 @@
-/* Custom hero size */
+/* Full screen hero */
 
-.page__hero--overlay {
-  aspect-ratio: 2 / 1;
-  height: auto;
+.hero-fullscreen .page__hero--overlay {
+
+  min-height: 100vh;
+
+  height: 100vh;
+
+  aspect-ratio: auto;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
 }
+
+
+
+/* hide title */
+
 .page__hero--overlay .page__title {
-  display: none;
+
+  display:none;
+
+}
+
+
+
+/* Scroll down arrow */
+
+.scroll-down {
+
+  position:absolute;
+
+  bottom:40px;
+
+  left:50%;
+
+  transform:translateX(-50%);
+
+  z-index:10;
+
+}
+
+
+
+.scroll-down span {
+
+  display:block;
+
+  width:25px;
+
+  height:25px;
+
+  border-bottom:3px solid white;
+
+  border-right:3px solid white;
+
+  transform:rotate(45deg);
+
+  animation:scrollArrow 2s infinite;
+
+}
+
+
+
+/* animation */
+
+@keyframes scrollArrow {
+
+
+0% {
+
+ transform:rotate(45deg) translate(-10px,-10px);
+
+ opacity:0;
+
+}
+
+
+50% {
+
+ opacity:1;
+
+}
+
+
+100% {
+
+ transform:rotate(45deg) translate(10px,10px);
+
+ opacity:0;
+
+}
+
+
+}
+
+
+/* smooth scrolling */
+
+html {
+
+ scroll-behavior:smooth;
+
 }
