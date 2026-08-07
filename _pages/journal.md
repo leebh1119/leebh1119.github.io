@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: collection
 title: "Journal"
 permalink: /journal/
-author_profile: true
+collection: journal
 ---
 
 # Thought Archive
