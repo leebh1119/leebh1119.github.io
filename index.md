@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: "Quant Trading Lab"
 permalink: /
 
 header:
