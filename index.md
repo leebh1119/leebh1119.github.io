@@ -10,15 +10,23 @@ header:
 
 ### Flexibility, Resilience, and Termination
 
-퀀트 트레이딩과 금융시장을 연구하고 기록합니다.
+Exploring quantitative trading and financial markets.
 
 ---
 
-## Latest Posts
+## Latest Updates
 
-{% for post in site.posts limit:5 %}
+{% assign all_posts = site.research
+  | concat: site.performance
+  | concat: site.notes
+  | concat: site.journal
+%}
 
-### [{{ post.title }}]({{ post.url }})
+{% assign all_posts = all_posts | sort: "date" | reverse %}
+
+{% for post in all_posts limit:5 %}
+
+### [{{ post.title }}]({{ post.url | relative_url }})
 
 {{ post.excerpt | strip_html | truncate: 160 }}
 
