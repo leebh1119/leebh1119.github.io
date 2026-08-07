@@ -7,31 +7,50 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+## Home
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
+- [Home]({{ base_path }}/)
+
+## About
+
+- [About]({{ base_path }}/about/)
+
+## Research
+
+- [Research]({{ base_path }}/research/)
+
+{% assign research_posts = site.research | sort: "date" | reverse %}
+
+{% for post in research_posts %}
+  - [{{ post.title }}]({{ base_path }}{{ post.url }})
 {% endfor %}
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
+## Performance
+
+- [Performance]({{ base_path }}/performance/)
+
+{% assign performance_posts = site.performance | sort: "date" | reverse %}
+
+{% for post in performance_posts %}
+  - [{{ post.title }}]({{ base_path }}{{ post.url }})
 {% endfor %}
 
-{% capture written_label %}'None'{% endcapture %}
+## Notes
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
+- [Notes]({{ base_path }}/notes/)
+
+{% assign notes_posts = site.notes | sort: "date" | reverse %}
+
+{% for post in notes_posts %}
+  - [{{ post.title }}]({{ base_path }}{{ post.url }})
 {% endfor %}
+
+## Journal
+
+- [Journal]({{ base_path }}/journal/)
+
+{% assign journal_posts = site.journal | sort: "date" | reverse %}
+
+{% for post in journal_posts %}
+  - [{{ post.title }}]({{ base_path }}{{ post.url }})
 {% endfor %}
