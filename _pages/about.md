@@ -10,8 +10,9 @@ author_profile: true
   Proven track record of managing a portfolio of 25 trading systems across Korean and U.S. index futures markets (KOSPI 200, KOSDAQ 150, NASDAQ 100, and S&P 500), generating consistent risk-adjusted returns.
 
   Former Quality Assurance Group Supervisor at KEPCO Engineering & Construction Company (KEPCO E&C) in South Korea, bringing a strong foundation in systems engineering, process validation, statistical analysis, risk management, and project management.
-<br>
-<br>
+
+<div style="margin-bottom: 2em;"></div>
+
 **■ EXPERIENCE**
 
 **Independent Quantitative Trader (Jan 2020 – Present)**<br>
@@ -22,10 +23,12 @@ Combines a robust academic background in Systems Management and Engineering with
 Implement dynamic risk management using volatility-adjusted leverage and anti-Martingale position sizing, monitor live drawdowns, transaction costs, slippage, and underwater periods to ensure close alignment with simulated results, and maintain parsimonious models to minimise overfitting, multicollinearity, and indicator redundancy.
 
 Researched and evaluated thousands of trading concepts, focusing on statistical edge, portfolio diversification, and adaptability across multiple markets, timeframes, and market regimes.
-<br>
-<br>
+
+<div style="margin-bottom: 2em;"></div>
+
 **Semi-Systematic Trader - Index ETF (2017 – 2020)**<br>
-Developed, and Tested Excel-based models to generate trading signals for KOSPI/KOSDAQ 1x & 2x leveraged, and Inverse ETFs, executing trades manually with strict rule-based mechanical discipline.
-<br>
-<br>
+Developed and Tested Excel-based models to generate trading signals for KOSPI/KOSDAQ 1x & 2x leveraged, and Inverse ETFs, executing trades manually with strict rule-based mechanical discipline.
+
+<div style="margin-bottom: 2em;"></div>
+
 **Stock Market Investment (2006 – 2017)**
