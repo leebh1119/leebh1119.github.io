@@ -1,9 +1,11 @@
 ---
+layout: collection
 title: "Notes"
 permalink: /notes/
+collection: notes
 ---
 
-# Notes
+# Papers, Markets & Book Reviews
 
 논문과 기사 정리
 
