@@ -1,15 +1,10 @@
 ---
 layout: splash
-title: "Quant Trading Lab"
 permalink: /
-
-classes:
-  - wide
 
 header:
   overlay_image: home.png
   overlay_filter: 0.45
-  overlay_image_height: 800
 ---
 
 ### Data · Research · Markets
