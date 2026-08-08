@@ -22,7 +22,7 @@ Implement dynamic risk management using volatility-adjusted leverage and anti-Ma
 
 Researched and evaluated thousands of trading concepts, focusing on statistical edge, portfolio diversification, and adaptability across multiple markets, timeframes, and market regimes.
 
-### Semi-Systematic Trader - Index ETF (2017 – 2020)
+### Systematic Trader - Index ETF (2017 – 2020)
 Developed and tested Microsoft Excel-based models to generate trading signals for KOSPI/KOSDAQ 1x & 2x leveraged, and Inverse ETFs, executing trades manually with strict rule-based mechanical discipline.
 
 ### Stock Market Investment (2006 – 2017)
