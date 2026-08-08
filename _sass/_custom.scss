@@ -145,16 +145,19 @@ html {
   text-align: center;
 
   width: 90%;
+  max-width: 1000px;
+
+  line-height: 1.2;
   z-index: 10;
 
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
 
-  animation: gentleFade 5s ease-in-out infinite;
+  animation: gentleFade 6s ease-in-out infinite;
 }
 
 @keyframes gentleFade {
   0% {
-    opacity: 0.25;
+    opacity: 0.45;
   }
 
   50% {
@@ -162,6 +165,21 @@ html {
   }
 
   100% {
-    opacity: 0.25;
+    opacity: 0.45;
+  }
+}
+
+
+/* 모바일 */
+@media screen and (max-width: 600px) {
+  .splash-hero-text {
+    top: 30%;
+    left: 50%;
+    
+    width: 90%;
+    max-width: 90%;
+
+    font-size: 1.6rem;
+    line-height: 1.3;
   }
 }
