@@ -9,7 +9,7 @@ header:
 ---
 
 <div class="splash-hero-text">
-  Trade Everything That Has Data.
+  Trade everything that has data.
 </div>
 
 <a id="content-start"></a>
