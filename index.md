@@ -10,7 +10,7 @@ header:
 
 <a id="content-start"></a>
 
-### Flexibility, Resilience, and Termination
+## Flexibility, Resilience, and Termination
 
 Exploring quantitative trading and financial markets.
 
