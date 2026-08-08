@@ -13,7 +13,7 @@ author_profile: true
 <div style="margin-bottom: 2em;"></div>
 
 ## ■ EXPERIENCE
-## Independent Quant Trader (Jan 2020 – Present)
+### Independent Quant Trader (Jan 2020 – Present)
 Design, test and optimise straightforward yet robust logic for 25 proprietary intraday trading systems, implementing primarily trend-following with selective mean-reversion elements to capture short-term market inefficiencies.
 
 Combines a robust academic background in Systems Management and Engineering with financial certifications, including Certified Financial Risk Manager (FRM), to engineer volatility-adaptive models using Value at Risk (VaR) and Anti-Martingale capital allocation.
@@ -22,7 +22,7 @@ Implement dynamic risk management using volatility-adjusted leverage and anti-Ma
 
 Researched and evaluated thousands of trading concepts, focusing on statistical edge, portfolio diversification, and adaptability across multiple markets, timeframes, and market regimes.
 
-## Semi-Systematic Trader - Index ETF (2017 – 2020)
+### Semi-Systematic Trader - Index ETF (2017 – 2020)
 Developed and tested Microsoft Excel-based models to generate trading signals for KOSPI/KOSDAQ 1x & 2x leveraged, and Inverse ETFs, executing trades manually with strict rule-based mechanical discipline.
 
-## Stock Market Investment (2006 – 2017)
+### Stock Market Investment (2006 – 2017)
