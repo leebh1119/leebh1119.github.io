@@ -6,6 +6,7 @@ permalink: /
 header:
   overlay_image: home.png
   overlay_filter: 0.45
+  caption: "Trade Everything That Has Data."
 ---
 
 <a id="content-start"></a>
