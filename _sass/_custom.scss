@@ -57,7 +57,7 @@
   position: absolute;
 
   left: 50%;
-  top: 75%;
+  top: 50vh;
 
   display: block;
 
@@ -135,7 +135,7 @@ html {
 
 .splash-hero-text {
   position: absolute;
-  top: 25%;
+  top: 40vh;
   left: 50%;
   transform: translate(-50%, -50%);
 
@@ -173,7 +173,7 @@ html {
 /* 모바일 */
 @media screen and (max-width: 600px) {
   .splash-hero-text {
-    top: 15%;
+    top: 40vh;
     left: 50%;
     
     width: 90%;
