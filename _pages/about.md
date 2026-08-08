@@ -26,3 +26,4 @@ Researched and evaluated thousands of trading concepts, focusing on statistical 
 Developed and tested Microsoft Excel-based models to generate trading signals for KOSPI/KOSDAQ 1x & 2x leveraged, and Inverse ETFs, executing trades manually with strict rule-based mechanical discipline.
 
 ### Stock Market Investment (2006 – 2017)
+Was an ape.
