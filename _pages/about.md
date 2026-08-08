@@ -3,14 +3,16 @@ title: "About"
 permalink: /about/
 author_profile: true
 ---
-# ■ SUMMARY
+## ■ SUMMARY
   Disciplined and self-directed Independent Quantitative Trader with 6+ years of continuous live P&L experience leveraging creative strategy generation and self-taught algorithmic system development, testing, and live execution.
 
   Proven track record of managing a portfolio of 25 trading systems across Korean and U.S. index futures markets (KOSPI 200, KOSDAQ 150, NASDAQ 100, and S&P 500), generating consistent risk-adjusted returns.
 
   Former Quality Assurance Group Supervisor at KEPCO Engineering & Construction Company (KEPCO E&C) in South Korea, bringing a strong foundation in systems engineering, process validation, statistical analysis, risk management, and project management.
 
-# ■ EXPERIENCE
+<div style="margin-bottom: 2em;"></div>
+
+## ■ EXPERIENCE
 ## Independent Quant Trader (Jan 2020 – Present)
 Design, test and optimise straightforward yet robust logic for 25 proprietary intraday trading systems, implementing primarily trend-following with selective mean-reversion elements to capture short-term market inefficiencies.
 
