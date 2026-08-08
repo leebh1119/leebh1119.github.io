@@ -6,8 +6,11 @@ permalink: /
 header:
   overlay_image: home.png
   overlay_filter: 0.45
-  caption: "Trade Everything That Has Data."
 ---
+
+<div class="splash-hero-text">
+  Trade Everything That Has Data.
+</div>
 
 <a id="content-start"></a>
 
