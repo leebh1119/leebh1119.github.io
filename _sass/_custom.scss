@@ -57,7 +57,7 @@
   position: absolute;
 
   left: 50%;
-  top: 75%;
+  top: 50%;
 
   display: block;
 
@@ -173,7 +173,7 @@ html {
 /* 모바일 */
 @media screen and (max-width: 600px) {
   .splash-hero-text {
-    top: 13%;
+    top: 15%;
     left: 50%;
     
     width: 90%;
