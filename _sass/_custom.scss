@@ -148,4 +148,20 @@ html {
   z-index: 10;
 
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+
+  animation: gentleFade 5s ease-in-out infinite;
+}
+
+@keyframes gentleFade {
+  0% {
+    opacity: 0.25;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0.25;
+  }
 }
