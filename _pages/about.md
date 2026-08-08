@@ -15,7 +15,7 @@ author_profile: true
 
 **■ EXPERIENCE**
 
-**Independent Quantitative Trader (Jan 2020 – Present)**<br>
+**Independent Quantitative Trader<br>(Jan 2020 – Present)**<br>
 Design, test and optimise straightforward yet robust logic for 25 proprietary intraday trading systems, implementing primarily trend-following with selective mean-reversion elements to capture short-term market inefficiencies.
 
 Combines a robust academic background in Systems Management and Engineering with financial certifications, including Certified Financial Risk Manager (FRM), to engineer volatility-adaptive models using Value at Risk (VaR) and Anti-Martingale capital allocation.
@@ -26,9 +26,9 @@ Researched and evaluated thousands of trading concepts, focusing on statistical 
 
 <div style="margin-bottom: 2em;"></div>
 
-**Semi-Systematic Trader - Index ETF (2017 – 2020)**<br>
-Developed and Tested Excel-based models to generate trading signals for KOSPI/KOSDAQ 1x & 2x leveraged, and Inverse ETFs, executing trades manually with strict rule-based mechanical discipline.
+**Semi-Systematic Trader - Index ETF<br>(2017 – 2020)**<br>
+Developed and tested Microsoft Excel-based models to generate trading signals for KOSPI/KOSDAQ 1x & 2x leveraged, and Inverse ETFs, executing trades manually with strict rule-based mechanical discipline.
 
 <div style="margin-bottom: 2em;"></div>
 
-**Stock Market Investment (2006 – 2017)**
+**Stock Market Investment<br>(2006 – 2017)**
