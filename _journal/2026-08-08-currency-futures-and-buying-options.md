@@ -3,7 +3,8 @@ title: "Currency Futures, and Buying Options"
 date: 2026-08-07
 layout: single
 tags:
-  - strategy
+  - journal
+  - stragegy
   - currency futures
   - buying options
 ---
