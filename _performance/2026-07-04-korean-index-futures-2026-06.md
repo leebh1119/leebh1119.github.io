@@ -11,4 +11,4 @@ tags:
 
 The performance of my Korean index futures system is shown below.
 The report is published every three months.
-![Performance overview - Korean Index Futures System](/images/performance/korean-system.png)
+![Performance overview - Korean Index Futures System](/images/performance/korean-system-2026-06.png)
