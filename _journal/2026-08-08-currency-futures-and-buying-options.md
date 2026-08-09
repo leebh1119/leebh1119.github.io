@@ -13,7 +13,7 @@ I’ve spent the past few days completely focused on building my own website, an
 
 My shoulders and neck always seem to hurt. Is this where the trapezius is? It feels like someone’s sitting on top of me. I really feel like getting some cupping done.
 
-As for the currency futures I’ve been thinking about for the past few months, I’ve finally got a bit of a direction. I’m going to test it a little more and see how it goes.
+As for the currency futures I’ve been thinking about for the past few months, I’ve finally got a bit of a direction. I’m going to test it a little more and see how it goes—especially with Euro FX Futures (6E).
 
 I’m still not quite sold on commodities, though.
 
