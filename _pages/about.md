@@ -28,4 +28,4 @@ Developed and tested Microsoft Excel-based models to generate trading signals fo
 ### Stock Investor (2006 – 2017)
 Was an ape.
 
-Updated on 09 Aug 2026
+*Updated on 09 Aug 2026*
