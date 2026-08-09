@@ -1,6 +1,6 @@
 ---
-title: "Adding more systems"
-date: 2026-08-06
+title: "Adding More Systems"
+date: 2026-08-01
 layout: single
 tags:
   - journal

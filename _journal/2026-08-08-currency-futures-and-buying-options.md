@@ -1,6 +1,6 @@
 ---
 title: "Currency Futures, and Buying Options"
-date: 2026-08-07
+date: 2026-08-08
 layout: single
 tags:
   - journal
