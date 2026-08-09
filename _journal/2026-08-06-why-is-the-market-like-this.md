@@ -23,7 +23,7 @@ I take that to mean something a little simpler:
 
 The market is just the market. That’s how it is.
 
-I reckon people are much the same.
+I think people are much the same.
 
 I watch Divorce Camp and I’m Solo every week, and it seems like almost every problem starts with one simple thing:
 
