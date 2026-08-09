@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ben Quant Lab"
+title                    : "Quant Ben"
 title_separator          : "-"
 name                     : &name "Ben Lee"
 description              : &description "Quant Trading"   # Update this with a general description of your site, this is the default if not overridden by a page
