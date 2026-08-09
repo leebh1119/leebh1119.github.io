@@ -16,7 +16,7 @@ header:
 
 ### Flexibility, Resilience, and Termination
 
-Exploring quantitative trading and financial markets.
+Exploring Market Edge
 
 ---
 
