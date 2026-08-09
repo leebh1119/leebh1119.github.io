@@ -14,7 +14,7 @@ author_profile: true
 
 ## ■ EXPERIENCE
 ### Independent Quant Trader (2020 – Present)
-Design, test and optimise straightforward yet robust logic for 25 proprietary intraday trading systems, implementing primarily trend-following with selective mean-reversion elements to capture short-term market inefficiencies.
+Design, test and optimise straightforward yet robust logic for 25 proprietary trading systems, implementing primarily trend-following with selective mean-reversion elements to capture short-term market inefficiencies.
 
 Combines a robust academic background in Systems Management and Engineering with financial certifications, including Certified Financial Risk Manager (FRM), to engineer volatility-adaptive models using Value at Risk (VaR) and Anti-Martingale capital allocation.
 
