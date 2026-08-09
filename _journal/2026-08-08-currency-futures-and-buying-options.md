@@ -5,7 +5,7 @@ layout: single
 tags:
   - journal
   - stragegy
-  - currency futures
+  - fx futures
   - buying options
 ---
 
