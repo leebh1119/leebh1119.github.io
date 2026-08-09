@@ -3,8 +3,8 @@ title: "Korean Index Futures (01 Jan 2024 – 03 Jul 2026)"
 date: 2026-07-04
 layout: single
 tags:
-  - Performance
-  - Korean Index Futures
+  - performance
+  - korean index futures
 ---
 
 The performance of my Korean index futures system is shown below.<br>
