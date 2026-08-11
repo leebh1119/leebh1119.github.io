@@ -15,7 +15,7 @@ Even if you do your absolute best, the result can still be a complete failure. O
 
 When you are watching the order book, it is almost impossible not to make impulsive trades. Except, perhaps, for the very small number of highly experienced traders who have exceptional self-control and a good feel for the market. I think this is one of the main reasons short-term trading is relatively difficult.
 
-There seem to be quite a few people who have an idealised view of systematic and quantitative trading. There was even a time when related search terms were among the most common ways people found this blog. At one point, a cast member of *Single's Inferno* became a topic of conversation after it was revealed that he was a highly paid quant trader.
+There seem to be quite a few people who have an idealised view of systematic and quantitative trading. There was even a time when related search terms were among the most common ways people found this blog (my Korean-language blog). At one point, a cast member of *Single's Inferno* became a topic of conversation after it was revealed that he was a highly paid quant trader.
 
 The core of systematic and quantitative trading is not so much coding ability itself, but having a complete understanding of the profit and loss structure of what you are trading, along with being able to design the logic properly and interpret the test results correctly. And finally, it is terminating strategies that no longer work. I believe **termination** is an essential capability, along with **flexibility and resilience**.
 
