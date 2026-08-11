@@ -21,7 +21,7 @@ The core of systematic and quantitative trading is not so much coding ability it
 
 One reason I don't trade options is that the P&L structure is not simply about directional trading. There is also volatility trading. A short straddle or short strangle, for example, can make money when the market stays quiet and moves sideways.
 
-It is simply too complicated for one person to code and test everything on their own. At least I know that I couldn't do it. Of course, implementing just one or two strategies out of all those possible positions might not be such a big deal.
+It is simply too complicated for one person to code and test everything on their own. At least I know that I couldn't do it. Of course, implementing just one or two strategies out of all those possible positions would be great.
 
 But getting even a single long position right is already difficult enough. Once you start considering shorts as well, the complexity doesn't just double. It can become four times, eight times, or even more difficult.
 
