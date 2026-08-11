@@ -25,7 +25,7 @@ It is simply too complicated for one person to code and test everything on their
 
 But getting even a single long position right is already difficult enough. Once you start considering shorts as well, the complexity doesn't just double. It can become four times, eight times, or even more difficult.
 
-In the end, what matters is being able to recognise traps such as overfitting and multicollinearity, design the logic properly, carry out the tests without major problems, and interpret the results correctly. It sounds painfully obvious, almost like something straight out of a textbook, but there is no definitive answer in this field.
+In the end, what matters is being able to recognise traps such as overfitting and multicollinearity, design the logic properly, carry out the tests without major problems, and understand the results correctly. It sounds painfully obvious, almost like something straight out of a textbook, but there is no definitive answer in this field.
 
 Not putting in enough effort is obviously a problem. But trying too hard to do everything perfectly can also make you lose your footing. Maybe that's the hardest part of all: trying to do a reasonably good job, rather than trying to do everything perfectly.
 
