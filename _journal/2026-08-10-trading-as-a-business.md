@@ -33,4 +33,4 @@ I've been doing this for six years now, but just over a year in, I was already t
 
 If there were something in life where the results were guaranteed in proportion to the effort you put in, it would probably be one of the easiest things you could do.
 
-Something like, “Studying was the easiest thing I ever did.”
+Something like, *“Studying was the easiest thing I ever did.”*
