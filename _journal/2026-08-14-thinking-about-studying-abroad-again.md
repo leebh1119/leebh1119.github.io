@@ -25,7 +25,7 @@ I was thinking less about immigration and more about the subject itself, the pos
 
 New Zealand was also an option I looked into when I was preparing to study in Australia. I received offers from the University of Auckland and Auckland University of Technology, but in the end I chose Australia. Sometimes I wonder what I would be doing now if I had gone to New Zealand instead.
 
-One of the biggest reasons I gave up on studying in Australia was that I couldn't apply for a graduate visa. I already knew that before I went, but knowing something and actually experiencing it myself felt completely different.
+One of the biggest reasons I gave up on studying in Australia was that I wouldn't be eligible for a graduate visa after graduation. I already knew that before I went, but knowing something and actually experiencing it myself felt completely different.
 
 After weighing up various factors, including the weather and climate, I eventually started considering London, which is the option I am currently thinking about the most. I don't know whether I'll actually be able to find a job there in the future, but the fact that it has a well-developed quant industry makes it an appealing option.
 
