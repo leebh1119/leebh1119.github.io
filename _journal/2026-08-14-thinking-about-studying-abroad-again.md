@@ -31,9 +31,9 @@ After weighing up various factors, including the weather and climate, I eventual
 
 The exchange rate and the brutal cost of living are definitely concerns.
 
-There is also the slightly embarrassing romantic appeal of London itself. When I was younger, studying there was something I couldn't even imagine doing. I found one of the universities within the University of London particularly appealing.
+I also have a bit of a romantic fascination with London itself. When I was younger, studying there was something I couldn't even imagine doing. I had a great time when I visited London in 2018.
 
-I spoke to an agency, and they said the university is in Central London, Zone 1, and that my English score and undergraduate grades should be fine. It seems slightly more expensive than Sydney. I paid around £1,500 a month for a one-bedroom apartment.
+I found one of the universities within the University of London particularly appealing. I spoke to an agency, and they said the university is in Central London, Zone 1, and that my English score and undergraduate grades should be fine. It seems slightly more expensive than Sydney. I paid around £1,500 a month for a one-bedroom apartment.
 
 Still, apparently London doesn't have quite the same obsession with rental history as Sydney. I spent an exhausting month trying to find a place to rent in Sydney under my own name, so that part sounds like a relief.
 
